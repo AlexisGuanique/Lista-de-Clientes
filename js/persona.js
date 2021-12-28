@@ -1,3 +1,4 @@
+// Creacion de la clase persona
 class Persona{
     constructor(nombre, apellido){
         this._nombre = nombre;
